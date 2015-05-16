@@ -1,0 +1,19 @@
+{
+  "name": "pbdesk-gulp-utils",
+  "version": "0.0.1",
+  "description": "Gulp Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PBDeskIO/pbdesk-gulp-utils.git"
+  },
+  "author": "Pinal Bhatt <self@pbdesk.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PBDeskIO/pbdesk-gulp-utils/issues"
+  },
+  "homepage": "https://github.com/PBDeskIO/pbdesk-gulp-utils#readme"
+}
