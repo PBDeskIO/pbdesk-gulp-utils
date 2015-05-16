@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/PBDeskIO/pbdesk-gulp-utils/issues"
   },
-  "homepage": "https://github.com/PBDeskIO/pbdesk-gulp-utils#readme"
+  "homepage": "https://github.com/PBDeskIO/pbdesk-gulp-utils#readme",
+  "dependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-print": "^1.1.0",
+    "gulp-task-listing": "^1.0.0",
+    "gulp-util": "^3.0.4",
+    "vinyl-paths": "^1.0.0",
+    "yargs": "^3.9.0"
+  }
 }
