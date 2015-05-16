@@ -22,9 +22,7 @@
     "gulp-if": "^1.2.5",
     "gulp-load-plugins": "^0.10.0",
     "gulp-print": "^1.1.0",
-    "gulp-task-listing": "^1.0.0",
     "gulp-util": "^3.0.4",
-    "vinyl-paths": "^1.0.0",
     "yargs": "^3.9.0"
   }
 }
